@@ -1,0 +1,23 @@
+{
+  "name": "mttdvs-palindrome",
+  "version": "1.0.0",
+  "description": "palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chewieee/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "mttdvs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chewieee/palindrome/issues"
+  },
+  "homepage": "https://github.com/chewieee/palindrome#readme"
+}
